@@ -14,7 +14,7 @@ This is a React-based simulation of a toy robot moving on a 5x5 square tabletop.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/robot-simulation.git
+    git clone https://github.com/sumitroy-54/robot-simulation.git
     cd robot-simulation
     ```
 
