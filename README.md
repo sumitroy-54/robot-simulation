@@ -150,14 +150,6 @@ The application consists of a single `Robot` component that maintains the robot'
 - The robot will not move outside the boundaries of the table.
 - Commands issued before a valid `PLACE` command are ignored.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or suggestions, please open an issue or contact me at [sumitroy7774@outlook.com].
